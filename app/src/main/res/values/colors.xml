@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#334FDD</color>
-    <color name="colorPrimaryDark">#375AFC</color>
+    <color name="colorPrimaryDark">#3452E7</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
     <color name="colorGrapeFruit">#ED5565</color>
     <color name="colorGrapeFruitDark">#DA4453</color>
     <color name="colorBitterSweet">#FC6E51</color>
@@ -22,4 +23,8 @@
     <color name="colorAquaDark">#3BAFDA</color>
     <color name="colorPinkRose">#EC87C0</color>
     <color name="colorPinkRoseDark">#D770AD</color>
+    <color name="colorGray">#696969</color>
+    <color name="colorGrayDark">#3C3C3C</color>
+
+
 </resources>
