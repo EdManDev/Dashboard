@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="lon_tennis">Lon Tennis</string>
+    <string name="sport_dashboard">SPORT DASHBOARD</string>
+    <string name="todo">TODO</string>
+    <string name="bowling">Bowling</string>
+    <string name="tennis">Tennis</string>
+    <string name="football">Football</string>
+</resources>
